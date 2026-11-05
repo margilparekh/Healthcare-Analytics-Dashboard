@@ -6,9 +6,13 @@ Developed an interactive Healthcare Analytics Dashboard using Microsoft Power BI
 **Key Features**
 
 KPI Tracking: Visualized important healthcare metrics and operational performance indicators.
+
 Patient Analytics: Analyzed patient-related data to identify trends and patterns.
+
 Interactive Visualizations: Created dynamic charts, graphs, and filters for exploring healthcare data.
+
 Drill-Through Analysis: Enabled detailed exploration of specific healthcare metrics.
+
 Performance Monitoring: Presented key insights through an organized and user-friendly dashboard.
 
 **Tools & Technologies**
